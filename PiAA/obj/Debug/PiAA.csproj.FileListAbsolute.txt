@@ -1,0 +1,8 @@
+C:\Users\izome\OneDrive\Рабочий стол\sharp\PiAA\PiAA\bin\Debug\PiAA.exe.config
+C:\Users\izome\OneDrive\Рабочий стол\sharp\PiAA\PiAA\bin\Debug\PiAA.exe
+C:\Users\izome\OneDrive\Рабочий стол\sharp\PiAA\PiAA\bin\Debug\PiAA.pdb
+C:\Users\izome\OneDrive\Рабочий стол\sharp\PiAA\PiAA\obj\Debug\PiAA.csproj.AssemblyReference.cache
+C:\Users\izome\OneDrive\Рабочий стол\sharp\PiAA\PiAA\obj\Debug\PiAA.csproj.SuggestedBindingRedirects.cache
+C:\Users\izome\OneDrive\Рабочий стол\sharp\PiAA\PiAA\obj\Debug\PiAA.csproj.CoreCompileInputs.cache
+C:\Users\izome\OneDrive\Рабочий стол\sharp\PiAA\PiAA\obj\Debug\PiAA.exe
+C:\Users\izome\OneDrive\Рабочий стол\sharp\PiAA\PiAA\obj\Debug\PiAA.pdb
